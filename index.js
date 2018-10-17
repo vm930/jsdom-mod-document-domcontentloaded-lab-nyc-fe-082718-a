@@ -1,2 +1,2 @@
 /* code goes here */
-  document.querySelector("#hidden-div").innerText("301");
+  document.querySelector("#hidden-div").innerText = "301";
